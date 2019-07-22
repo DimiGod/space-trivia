@@ -12,33 +12,32 @@ var questionArr = [
         choices:['a: 83,740','b: 238,900','c: 375,600','d: 1,417,530'],
         ans:'b'
     },
-    //... Start Replacing W/ New Questions and Answers...//
-    {   question:"How many squares are there on a chess board ?",
-        choices:['a: 40','b: 50','c: 60','d: 70'],
-        ans:'a'
-    },
-    {   question:"How many space shuttles were commissioned by NASA ?",
-        choices:['a: 129','b: 37','c: 6','d: 13'],
+    {   question:"How many planets are in our solar system (Pluto is not a planet) ?",
+        choices:['a: 7','b: 5','c: 8','d: 6'],
         ans:'c'
     },
-    {   question:"How many rovers were commissioned to Mars ?",
-        choices:['a: 6','b: 8','c: 2','d: 14'],
+    {   question:"What's the closest planet to the Sun ?",
+        choices:['a: Venus','b: Saturn','c: Mercury','d: Neptune'],
+        ans:'c'
+    },
+    {   question:"What is the name of the second largest planet in our solar system ?",
+        choices:['a: Satrun','b: Jupiter','c: Neptune','d: Mars'],
         ans:'a'
     },
-    {   question:"How many miles is the moon from the earth ?",
-        choices:['a: 83,740','b: 238,900','c: 375,600','d: 1,417,530'],
+    {   question:"Which planet is smaller than Earth ?",
+        choices:['a: Neptune','b: Mars','c: Saturn','d: Uranus'],
         ans:'b'
     },
-    {   question:"How many squares are there on a chess board ?",
-        choices:['a: 40','b: 50','c: 60','d: 70'],
+    {   question:"What is the coldest planet ?",
+        choices:['a: Neptune','b: Uranus','c: Jupiter','d: Venus'],
         ans:'a'
     },
-    {   question:"How many squares are there on a chess board ?",
-        choices:['a: 40','b: 50','c: 60','d: 70'],
+    {   question:"What planet is the second furthest from the sun ?",
+        choices:['a: Uranus','b: Neptune','c: Saturn','d: Venus'],
         ans:'a'
     },
-    {   question:"What is the largest country by area that only has one time zone ?",
-        choices:['a: Mexico','b: United States','c: Rusia','d: China'],
+    {   question:"Which planet has the most moons ?",
+        choices:['a: Neptune','b: Uranus','c: Saturn','d: Jupiter'],
         ans:'d'
     },]
 
