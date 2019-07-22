@@ -1,3 +1,18 @@
 body {
     background-image: url(../images/wallpaper1.jpg);
 }
+#startBTN{
+    margin-top:25px;
+}
+.multipleChoices{
+    height:50px;
+    width:auto;
+    border:none;
+    opacity: 100%;
+    font-size: 25px;
+    background-color:lightblue;
+    margin-top:5px;
+}
+.multipleChoices:hover{
+    border:1px solid black;
+}
